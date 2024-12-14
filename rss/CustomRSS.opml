@@ -4,5 +4,7 @@
 <body>
     <outline text="Github Activity" title="Github Activity" type="rss" xmlUrl="https://github.com/M09Ic.private.atom?token=AG6TDCDENEYN37FDTKBZZJGCIC4WK" htmlUrl="https://github.com/"/>
     <outline title="HackerOne Hacker Activity" text="HackerOne Hacker Activity" htmlUrl="https://hackerone.com/hacktivity" xmlUrl="https://rsshub.app/hackerone/hacktivity" type="rss" />
+    <outline text="腾讯实验室" title="腾讯实验室" type="rss" xmlUrl="https://sectoday.tencent.com/api/atom.xml" htmlUrl="https://sectoday.tencent.com/"/>
+
 </body>
 </opml>
