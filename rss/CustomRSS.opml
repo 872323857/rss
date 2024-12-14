@@ -5,6 +5,16 @@
     <outline text="Github Activity" title="Github Activity" type="rss" xmlUrl="https://github.com/M09Ic.private.atom?token=AG6TDCDENEYN37FDTKBZZJGCIC4WK" htmlUrl="https://github.com/"/>
     <outline title="HackerOne Hacker Activity" text="HackerOne Hacker Activity" htmlUrl="https://hackerone.com/hacktivity" xmlUrl="https://rsshub.app/hackerone/hacktivity" type="rss" />
     <outline text="腾讯实验室" title="腾讯实验室" type="rss" xmlUrl="https://sectoday.tencent.com/api/atom.xml" htmlUrl="https://sectoday.tencent.com/"/>
+    <outline text="secwiki" title="secwiki" type="rss" xmlUrl="https://www.sec-wiki.com/news/rss" htmlUrl="https://www.sec-wiki.com/"/>
+    <outline text="先知" title="先知" type="rss" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com/"/>
+    <outline text="Drunkbaby" title="Drunkbaby" type="rss" xmlUrl="https://drun1baby.top/atom.xml" htmlUrl="https://drun1baby.top/"/>
+    <outline text="补天" title="补天" type="rss" xmlUrl="https://forum.butian.net/Rss" htmlUrl="https://forum.butian.net/"/>
+    <outline text="不安全" title="不安全" type="rss" xmlUrl="https://unsafe.sh/rss.xml" htmlUrl="https://unsafe.sh/"/>
+    <outline text="X1r0z" title="X1r0z" type="rss" xmlUrl="https://exp10it.io/index.xml" htmlUrl="https://exp10it.io/"/>
+    <outline text="navi" title="navi" type="rss" xmlUrl="https://www.ruojisec.com/index.php/feed/" htmlUrl="https://www.ruojisec.com/"/>
+
+
+
 
 </body>
 </opml>
